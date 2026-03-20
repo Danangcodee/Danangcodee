@@ -31,7 +31,7 @@ Beberapa platform digital yang telah saya kembangkan:
 - **Location:** Lampung, Indonesia 📍
 - **LinkedIn:** [Tumenggung Danang Triharto](https://www.linkedin.com/in/tumenggung-danang-triharto)
 - **Email:** danangg336@gmail.com
-- **Portfolio:** [admin.mtssmaarif02kotagajah](https://admin.mtssmaarif02kotagajah.sch.id) (atau link web personalmu)
+- **Portfolio:** [admin.mtssmaarif02kotagajah](https://admin.mtssmaarif02kotagajah.sch.id)
 
 ---
 *"Memadukan keahlian administrasi dan kreativitas digital untuk solusi yang lebih efisien."*
